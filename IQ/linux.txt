@@ -5,8 +5,10 @@
   5 * init levels implements in linux ?
   6 * CMD check the load of the system ?
   7 * CMD check usage of memory / ram of the system ?
+free, top
   8 * CMD to check how many CPU cores are there in system ?
   9 * Suppose I have 100 servers, each server has username and password, if i want to install packages in all those servers remotely without logging in how i will be able to do this using shell script.
+
   10* Using Top command how will you control all process running.
   11* Write shell script to print all alternative lines
   12* script to sort all file in logs and sort it according to top memory consuming and copy it to another file 
